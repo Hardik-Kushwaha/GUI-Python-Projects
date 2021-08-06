@@ -63,5 +63,4 @@ def save():
 savepasswordbutton=tk.Button(labf,text="Save Password",activebackground='dodgerblue',bg='dodgerblue',
             activeforeground='white',fg='white',command=save,font=('heventica',20,'italic'))
             
-
 win.mainloop()
